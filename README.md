@@ -3,7 +3,7 @@
 the dataset can be downloaded at (https://www.physionet.org/static/published-projects/mitdb/mit-bih-arrhythmia-database-1.0.0.zip)
 
 1. Download the data from the website above
-2. Place the extracted dataset to your google drive
+2. Place the extracted dataset to your google drive and rename it as in line data = '/content/drive/MyDrive/(**YOUR FOLDER DATA'S NAME**)/'
 3. run the program on your google collab
 
 #the program classifies multi-class of arrhythmias PVC, PAC, LBBB, RBBB, Escape Ventricular, Fusion Ventricular
