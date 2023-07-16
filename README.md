@@ -1,6 +1,6 @@
 # aritmiaTA
 
-the dataset can be downloaded at (https://www.physionet.org/static/published-projects/mitdb/mit-bih-arrhythmia-database-1.0.0.zip)https://www.physionet.org/static/published-projects/mitdb/mit-bih-arrhythmia-database-1.0.0.zip
+the dataset can be downloaded at (https://www.physionet.org/static/published-projects/mitdb/mit-bih-arrhythmia-database-1.0.0.zip)
 
 1. Download the data from the website above
 2. Place the extracted dataset to your google drive
